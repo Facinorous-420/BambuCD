@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* xkcd-flavoured plain styling */
+body {
+  /* xkcd's periwinkle/blue page background; content sits in white panels. */
+  background: #96a8c8;
+  color: #000000;
+}
+
+a {
+  color: #0000ee;
+  text-decoration: none;
+}
+a:visited {
+  color: #551a8b;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Reusable white panel, like xkcd's bordered boxes. */
+.panel {
+  background: #ffffff;
+  border: 1px solid #aaaaaa;
+  border-radius: 5px;
+}
