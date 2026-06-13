@@ -29,7 +29,7 @@ export default function AboutPage() {
         </a>
         , which is — and we cannot stress this enough — orders of magnitude
         better than the spaghetti our 3D printers churn out here. Randall draws
-        comics that make you think. We draw comics about a print that failed at
+        comics that make you think. We generate comics about a print that failed at
         97%. Go read xkcd. Then maybe come back.
       </p>
 
