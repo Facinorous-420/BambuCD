@@ -18,6 +18,15 @@ This is a fully static site — there is no server, database, or login. Comics a
 
 ## Adding a comic
 
+I mainly use ChatGPT to generate comics, using these prompts, but feel free to change the prompts around to better match your style and workflow:
+
+"Generate me a comic in the style of xkcd comics. This comic will be - panels. This comic will be about -. Put "BambuCD" in black text in the corner. Don't include the comic title as text anywhere in the comic. Come up with a clever comic title and metadata description based on the comic. "
+
+If you want ChatGPT to come up with all the punchlines and everything,
+
+ "Generate me a comic in the style of xkcd comics. This comic will be - panels. This comic will be about -. Make the comic funny, in the same humor style that xkcd uses with a very funny punch line. Put "BambuCD" in black text in the corner. Don't include the comic title as text anywhere in the comic. Come up with a clever comic title and metadata description based on the comic."
+
+
 The minimal way — **just add a folder with an image in it:**
 
 ```
